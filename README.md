@@ -1,3 +1,3 @@
 # PyTorch notes
 
-This is a set of exercises complementing the deep learning course that I teach. 
+This is a set of Google Colab notebooks complementing my deep learning course. 
